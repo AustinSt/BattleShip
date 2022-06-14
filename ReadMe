@@ -1,1 +1,9 @@
-Battleship
+Battleship 
+
+Fairly wonky AI, and sort of works...could use improvemeent, but it doesn't cheat.
+
+Run through Visual Studio. Running it might lag for a bit to load the form data because it is not used for it's intended purposes.
+
+Start -> Player places ships and then the health is tracked -> the score is visualized by the HP of each ship added. 
+
+Good Luck!
